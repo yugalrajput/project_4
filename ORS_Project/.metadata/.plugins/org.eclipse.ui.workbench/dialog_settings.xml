@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item key="allPersp" value="false"/>
+		<item key="sort" value="0"/>
+		<list key="bounds">
+			<item value="262"/>
+			<item value="0"/>
+			<item value="757"/>
+			<item value="527"/>
+		</list>
+		<list key="columns">
+			<item value="239"/>
+			<item value="479"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="286"/>
+		<item key="DIALOG_Y_ORIGIN" value="6"/>
+	</section>
+</section>

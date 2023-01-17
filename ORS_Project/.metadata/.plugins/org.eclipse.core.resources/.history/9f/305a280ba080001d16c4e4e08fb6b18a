@@ -1,0 +1,14 @@
+package in.co.rays.controller.proj4;
+
+import javax.servlet.annotation.WebServlet;
+
+/**
+ * College functionality Controller. Performs operation for add, update, delete
+ * and get College
+ */
+@WebServlet(name = "CollegeCtl",urlPatterns = {"/ctl/CollegeCtl"})
+
+public class CollegeCtl extends BaseCtl {
+
+	
+}

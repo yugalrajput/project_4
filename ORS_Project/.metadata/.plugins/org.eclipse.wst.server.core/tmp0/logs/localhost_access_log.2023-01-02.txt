@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:28 +0530] "GET /PROJECT_4/ HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:29 +0530] "GET /PROJECT_4/img/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:29 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:43 +0530] "GET /PROJECT_4/WelcomeCtl HTTP/1.1" 200 1309
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:46 +0530] "GET /PROJECT_4/LoginCtl HTTP/1.1" 200 2847
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:48 +0530] "POST /PROJECT_4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:48 +0530] "GET /PROJECT_4/UserRegistrationCtl HTTP/1.1" 200 6429
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:56:48 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:58:06 +0530] "POST /PROJECT_4/UserRegistrationCtl HTTP/1.1" 500 1197
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:59:10 +0530] "POST /PROJECT_4/UserRegistrationCtl HTTP/1.1" 200 6573
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:10:59:10 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:11:00:00 +0530] "GET /PROJECT_4/UserRegistrationCtl HTTP/1.1" 200 6429
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:11:00:01 +0530] "GET /PROJECT_4/LoginCtl HTTP/1.1" 200 2847
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:11:04:08 +0530] "GET /PROJECT_4/ForgetPasswordCtl HTTP/1.1" 200 2460
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:11:04:14 +0530] "POST /PROJECT_4/ForgetPasswordCtl HTTP/1.1" 500 2550
+0:0:0:0:0:0:0:1 - - [02/Jan/2023:11:04:48 +0530] "GET /PROJECT_4/LoginCtl HTTP/1.1" 200 2847

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+    <fullyQualifiedTypeName name="com.mchange.v2.codegen.bean.Property"/>
+    <fullyQualifiedTypeName name="in.co.rays.util.proj4.PropertyReader"/>
+    <fullyQualifiedTypeName name="in.co.rays.util.proj4.DataValidator"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="in.co.rays.bean.proj4.UserBean"/>
+    <fullyQualifiedTypeName name="in.co.rays.bean.proj4.RoleBean"/>
+    <fullyQualifiedTypeName name="in.co.rays.exception.proj4.RecordNotFoundException"/>
+    <fullyQualifiedTypeName name="in.co.rays.bean.proj4.BaseBean"/>
+    <fullyQualifiedTypeName name="in.co.rays.model.proj4.UserModel"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="in.co.rays.model.proj4.CollegeModel"/>
+    <fullyQualifiedTypeName name="in.co.rays.util.proj4.ServletUtility"/>
+    <fullyQualifiedTypeName name="in.co.rays.bean.proj4.CollegeBean"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="in.co.rays.bean.proj4.DropdownListBean"/>
+    <fullyQualifiedTypeName name="in.co.rays.exception.proj4.DuplicateRecordException"/>
+    <fullyQualifiedTypeName name="in.co.rays.exception.proj4.ApplicationException"/>
+    <fullyQualifiedTypeName name="in.co.rays.model.proj4.TimeTableModel"/>
+    <fullyQualifiedTypeName name="in.co.rays.controller.proj4.ORSView"/>
+    <fullyQualifiedTypeName name="in.co.rays.util.proj4.DataUtility"/>
+    <fullyQualifiedTypeName name="javax.mail.internet.ParseException"/>
+</qualifiedTypeNameHistroy>

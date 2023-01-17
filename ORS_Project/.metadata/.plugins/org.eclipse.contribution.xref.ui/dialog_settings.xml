@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.contribution.internal.xref.QuickXRef">
+		<item key="size.width" value="420"/>
+		<item key="size.height" value="160"/>
+		<item key="location.x" value="430"/>
+		<item key="location.y" value="230"/>
+	</section>
+</section>

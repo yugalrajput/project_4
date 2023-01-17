@@ -1,0 +1,14 @@
+package in.co.rays.exception.proj4;
+
+/**
+ * @author Prashant Jha
+ *
+ */
+public class DuplicateRecordException extends Exception {
+
+   
+    public DuplicateRecordException(String msg) {
+        super(msg);
+    }
+
+}

@@ -1,0 +1,12 @@
+package in.co.rays.controller.proj4;
+
+
+
+/**
+ * College functionality Controller. Performs operation for add, update, delete
+ * and get College
+ */
+public class CollegeCtl extends BaseCtl {
+
+	
+}
