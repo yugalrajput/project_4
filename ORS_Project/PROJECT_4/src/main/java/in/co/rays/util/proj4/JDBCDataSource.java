@@ -18,7 +18,7 @@ import in.co.rays.exception.proj4.ApplicationException;
  *
  */
 
-public final class JDBCDataSource {
+public  class JDBCDataSource {
 
   
 	  /**
